@@ -1,55 +1,79 @@
-<h1 align="center">👋 Hi, I'm <span style="color:#4CAF50;">Ankit Kumar</span></h1>
+<h1 align="center">👋 Hi, I'm <span style="color:#00F7FF;">Ankit Kumar</span></h1>
 
 <h3 align="center">
 🚀 Passionate CSE Student &nbsp;|&nbsp; 🌐 Web Developer &nbsp;|&nbsp; 💡 Problem Solver
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Developer+in+Progress;React+Enthusiast;C+Programmer;DSA+Explorer;Building+Cool+Stuff+🚀&center=true&width=550&height=45&color=00F7FF&vCenter=true">
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ankitkumar764&label=Profile%20Views&color=0e75b6&style=flat" />
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Developer+🚀;React+Enthusiast+⚛️;C+Programmer+💻;DSA+Explorer+🧠;Building+Cool+Stuff+🔥&center=true&width=550&height=45&color=00F7FF">
 </p>
 
 ---
 
-## 💫 <b>About Me</b>
+## 💫 About Me
 
-<p align="center">
-  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="250"/>
-</p>
+<table>
+<tr>
+<td width="45%">
+
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%"/>
+
+</td>
+
+<td width="55%">
 
 ✨ <b>Driven by curiosity, fueled by code, and focused on growth.</b>
 
 * 🎓 Pursuing <b>B.Tech in Computer Science Engineering</b>
 * 🌐 Crafting modern web experiences using <b>HTML, CSS, JavaScript & React</b>
 * 💻 Strong foundation in <b>C Programming & Problem Solving</b>
-* 🚀 Currently exploring <b>Advanced React & Backend Development</b>
-* 🧠 Consistently improving in <b>DSA & real-world project building</b>
-* 🏏 Cricket enthusiast — strategy, focus & teamwork
-* 🎬 Passionate about storytelling through <b>Hindi Cinema</b>
+* 🚀 Exploring <b>Advanced React & Backend Development</b>
+* 🧠 Improving in <b>DSA & real-world project building</b>
+* 🏏 Cricket enthusiast — strategy & teamwork
+* 🎬 Love for <b>Hindi Cinema storytelling</b>
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 🛠️ <b>Tech Stack</b>
+## 🛠️ Tech Stack
+
+### 🌐 Frontend
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,js,html,css,react,tailwind,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react" />
+</p>
+
+### ⚙️ Backend
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/REST-API-00C7B7?style=for-the-badge&logo=fastapi&logoColor=white"/>
+</p>
+
+### 🛠️ Tools
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=github,netlify,vercel,postman" />
 </p>
 
 ---
 
-## 📊 <b>GitHub Analytics</b>
+## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ankitkumar764&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" height="180px"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ankitkumar764&theme=tokyonight&hide_border=true&background=0d1117" height="180px"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ankitkumar764&show_icons=true&theme=tokyonight&hide_border=true" height="180px"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ankitkumar764&theme=tokyonight&hide_border=true" height="180px"/>
 </p>
 
 ---
 
-## 📈 <b>Contribution Graph</b>
+## 📈 Contribution Graph
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ankitkumar764&theme=react-dark&hide_border=true&area=true"/>
@@ -57,10 +81,10 @@
 
 ---
 
-## 🧠 <b>Currently Learning</b>
+## 🧠 Currently Learning
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=Advanced+React+⚛️;Backend+Development+🌐;API+Integration+📦;Data+Structures+🧩&center=true&width=500&height=40&color=F75C7E">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Advanced+React+⚛️;Backend+Development+🌐;API+Integration+📦;DSA+🧠&center=true&width=500&height=40&color=F75C7E">
 </p>
 
 * ⚛️ Advanced React (Hooks, Context API, Optimization)
@@ -70,23 +94,23 @@
 
 ---
 
-## 🏆 <b>GitHub Achievements</b>
+## 🏆 GitHub Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ankitkumar764&theme=onedark&no-frame=true&row=1&column=6"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=ankitkumar764&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10"/>
 </p>
 
 ---
 
-## 📂 <b>Featured Projects</b>
+## 📂 Featured Projects
 
 🚧 <b>Coming Soon...</b>
 
-🔥 <i>Tip: Highlight your best 3–4 projects with live demos to stand out!</i>
+🔥 <i>Add 3–4 strong projects with live links for max impact</i>
 
 ---
 
-## 🤝 <b>Connect With Me</b>
+## 🤝 Connect With Me
 
 <p align="center">
   <a href="https://github.com/ankitkumar764">
@@ -96,7 +120,7 @@
 
 ---
 
-## ✨ <b>Fun Fact</b>
+## ✨ Fun Fact
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?lines=Code+💻+→+Debug+🐞+→+Repeat+🔁;Then+Cricket+🏏+Time+😎&center=true&width=500&height=40&color=00FFAB">
