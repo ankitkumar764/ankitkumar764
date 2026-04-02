@@ -1,47 +1,90 @@
-# Hi there, I'm Ankit Kumar! 👋
-# (ankitkumar764)
+<h1 align="center">Hi 👋, I'm Ankit Kumar</h1>
+<h3 align="center">🚀 Passionate CSE Student | Web Developer | Problem Solver</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7E018&center=true&vCenter=true&width=435&lines=Full+Stack+Developer+In+The+Making;C+Programming+Enthusiast;Open+Source+Contributor;CSE+Undergrad" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Web+Developer;C+Programmer;DSA+Learner;Tech+Enthusiast;Cricket+Lover&center=true&width=500&height=45">
 </p>
 
 ---
 
-### 💫 About Me
-- 🔭 I’m currently a **Computer Science Engineering** student.
-- 🚀 Deeply interested in **Web Development** (HTML, CSS, JavaScript).
-- ⚙️ Love solving problems using **C Programming**.
-- 🏏 When I'm not coding, I'm likely watching or playing **Cricket**.
-- 🎬 Massive fan of **Hindi Cinema**.
+## 💫 About Me
+
+- 🎓 Computer Science Engineering Student  
+- 🌐 Exploring **Web Development (HTML, CSS, JavaScript, React)**  
+- 💻 Strong interest in **C Programming & Problem Solving**  
+- 🚀 Currently learning **Advanced React & Backend Basics**  
+- 🏏 Love Cricket (playing + watching 😄)  
+- 🎬 Huge fan of **Hindi Cinema**  
 
 ---
 
-### 🛠️ Tech Stack & Tools
+## 🛠️ Tech Stack
 
-<p align="left">
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
+### 💻 Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=c,js" />
+</p>
+
+### 🌐 Web Development
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,react,tailwind" />
+</p>
+
+### ⚙️ Tools & Platforms
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
 </p>
 
 ---
 
-### 📊 GitHub Stats
+## 📊 GitHub Stats
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ankitkumar764&show_icons=true&theme=tokyonight" alt="Ankit's GitHub Stats" />
-  <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ankitkumar764&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ankitkumar764&show_icons=true&theme=tokyonight" height="180px"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ankitkumar764&theme=tokyonight" height="180px"/>
 </p>
 
 ---
 
-### 📂 Let's Connect
-<p align="left">
-<a href="https://github.com/ankitkumar764" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="ankitkumar764" height="30" width="40" /></a>
+## 📈 Activity Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ankitkumar764&theme=tokyo-night"/>
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer" width="100%"/>
+---
+
+## 🧠 Currently Learning
+
+- ⚛️ Advanced React (Hooks, Context API, Performance)
+- 🌐 Backend Basics (Node.js, Express)
+- 📦 API Integration
+- 🧩 Data Structures & Algorithms
+
+---
+
+## 📂 Featured Projects
+
+🚧 *Coming Soon... (Add your best projects here)*  
+
+---
+
+## 🤝 Connect With Me
+
+<p align="center">
+  <a href="https://github.com/ankitkumar764">
+    <img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github"/>
+  </a>
+</p>
+
+---
+
+## ✨ Fun Fact
+
+> "Code. Debug. Repeat. And then watch Cricket 😎🏏"
+
+---
+
+<p align="center">
+  🔥 Thanks for visiting my profile! 🔥
+</p>
