@@ -96,7 +96,7 @@
 ## 🧠 Coding Profiles
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=dark&font=Baloo&ext=contest" />
+  <img src="https://leetcard.jacoblin.cool/AnkitKumaar?theme=dark&font=Baloo&ext=contest" />
 </p>
 
 ---
