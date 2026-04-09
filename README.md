@@ -1,8 +1,12 @@
 <h1 align="center">👋 Hi, I'm <span style="color:#00F7FF;">Ankit Kumar</span></h1>
 
 <h3 align="center">
-🚀 Passionate CSE Student &nbsp;|&nbsp; 🌐 Web Developer &nbsp;|&nbsp; 💡 Problem Solver
+🚀 Passionate CSE Student &nbsp;|&nbsp; 🌐 Full Stack Developer &nbsp;|&nbsp; 💡 Problem Solver
 </h3>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ankitkumar764&label=Profile%20Views&color=00F7FF&style=for-the-badge" />
+</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Developer+🚀;React+Enthusiast+⚛️;C+Programmer+💻;DSA+Explorer+🧠;Building+Cool+Stuff+🔥&center=true&width=550&height=45&color=00F7FF">
@@ -25,16 +29,26 @@
 ✨ <b>Driven by curiosity, fueled by code, and focused on growth.</b>
 
 * 🎓 Pursuing <b>B.Tech in Computer Science Engineering</b>
-* 🌐 Crafting modern web experiences using <b>HTML, CSS, JavaScript & React</b>
-* 💻 Strong foundation in <b>C Programming & Problem Solving</b>
-* 🚀 Exploring <b>Advanced React & Backend Development</b>
-* 🧠 Improving in <b>DSA & real-world project building</b>
-* 🏏 Cricket enthusiast — strategy & teamwork
-* 🎬 Love for <b>Hindi Cinema storytelling</b>
+* 🌐 Building modern web apps using <b>HTML, CSS, JavaScript & React</b>
+* 💻 Strong in <b>C Programming & DSA</b>
+* 🚀 Learning <b>Advanced React & Backend</b>
+* 🧠 Daily improving problem solving
+* 🏏 Cricket + 🎬 Hindi Cinema lover
 
 </td>
 </tr>
 </table>
+
+---
+
+## 🚀 What I Bring
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Problem%20Solver-🧠-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Full%20Stack%20Dev-🚀-green?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/React%20Lover-⚛️-cyan?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/DSA%20Explorer-🔥-orange?style=for-the-badge" />
+</p>
 
 ---
 
@@ -50,16 +64,6 @@
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/REST-API-00C7B7?style=for-the-badge&logo=fastapi&logoColor=white"/>
-</p>
-
-### 🛠️ Tools
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=github,netlify,vercel,postman" />
 </p>
 
 ---
@@ -81,32 +85,65 @@
 
 ---
 
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ankitkumar764/ankitkumar764/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
+## 🧠 Coding Profiles
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=dark&font=Baloo&ext=contest" />
+</p>
+
+---
+
 ## 🧠 Currently Learning
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?lines=Advanced+React+⚛️;Backend+Development+🌐;API+Integration+📦;DSA+🧠&center=true&width=500&height=40&color=F75C7E">
 </p>
 
-* ⚛️ Advanced React (Hooks, Context API, Optimization)
-* 🌐 Backend (Node.js, Express.js)
-* 📦 API Integration & Real-world Applications
-* 🧩 Data Structures & Algorithms
-
 ---
 
-## 🏆 GitHub Achievements
+## 🛣️ Roadmap
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ankitkumar764&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10"/>
-</p>
+* ✅ HTML, CSS, JavaScript
+* ✅ React Basics
+* 🔄 Advanced React
+* 🔄 Backend Development
+* ⏳ System Design
+* ⏳ Open Source
 
 ---
 
 ## 📂 Featured Projects
 
-🚧 <b>Coming Soon...</b>
+### 🔥 Portfolio Website
 
-🔥 <i>Add 3–4 strong projects with live links for max impact</i>
+* 🌐 Live: https://your-link.com
+* 💻 Tech: React, Tailwind
+
+### 🚀 REST API App
+
+* 🌐 Live: https://your-link.com
+* ⚙️ Tech: Node.js, Express, MongoDB
+
+### 🧠 DSA Tracker
+
+* 💻 Tech: C++
+* 📌 Focus: Problem Solving
+
+---
+
+## 😂 Developer Joke
+
+<p align="center">
+  <img src="https://readme-jokes.vercel.app/api?theme=tokyonight" />
+</p>
 
 ---
 
@@ -120,10 +157,12 @@
 
 ---
 
-## ✨ Fun Fact
+## ✨ Fun Animation
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=Code+💻+→+Debug+🐞+→+Repeat+🔁;Then+Cricket+🏏+Time+😎&center=true&width=500&height=40&color=00FFAB">
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="30%" />
+  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="30%" />
+  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="30%" />
 </p>
 
 ---
